@@ -275,6 +275,7 @@ header
 .nav-open .nav-toggle
 {
     position: fixed;
+    margin-left: 50%;
 }
 
 .nav-open .hamburger

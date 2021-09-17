@@ -264,6 +264,7 @@ header
     right: 1em;
     top: 1em;
     z-index: 1000;
+    margin-left: 50%;
 }
 
 .nav-open .nav

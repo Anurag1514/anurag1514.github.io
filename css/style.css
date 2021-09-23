@@ -265,6 +265,7 @@ header
     top: 1em;
     z-index: 1000;
     margin-left: 50%;
+    position: fixed;
 }
 
 .nav-open .nav
